@@ -1,5 +1,4 @@
 import React from 'react'
-import './App.css';
 
 import data from './data/data.json'
 
@@ -30,7 +29,7 @@ function App() {
           })}
       </div>
           
-    </>
+  </>
   );
 }
 

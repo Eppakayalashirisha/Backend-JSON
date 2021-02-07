@@ -63,8 +63,10 @@ h1 {
 }
 
 .games-section .col.image {
+  height: 40px;
   width: 120px;
   border: none;
+  overflow: hidden;
 }
 
 /* game information section */
@@ -79,6 +81,7 @@ h1 {
   width: 275px;
   margin-left: 8px;
   line-height: 45px;
+  overflow: hidden;
 }
 
 /* game release date */
