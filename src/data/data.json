@@ -1,0 +1,123 @@
+[
+    {
+        "id":1,
+        "title":"Bloons TD 6",
+        "imgurl":"https://cdn.cloudflare.steamstatic.com/steam/apps/960090/header.jpg?t=1593469824",
+        "price":"40.00 kr",
+        "releasedate":"18. des 2018"
+    },
+    { 
+        "id":2,
+        "title":"Bloons TD 5",
+        "imgurl":"https://cdn.cloudflare.steamstatic.com/steam/apps/306020/header.jpg?t=1571743262",
+        "price":"72.00 kr",
+        "releasedate":"19. nov 2014"
+    },
+    { 
+        "id":3,
+        "title":"Influent DLC",
+        "imgurl":"https://cdn.cloudflare.steamstatic.com/steam/apps/338370/header.jpg?t=1511361505",
+        "price":"70.00 kr",
+        "releasedate":"28. apr 2015"
+    },
+    {
+        "id":4,
+        "title":"We Were Here Together",
+        "imgurl":"https://cdn.cloudflare.steamstatic.com/steam/apps/865360/capsule_231x87.jpg?t=1610446953",
+        "price":"89.00 kr",
+        "releasedate":"10. okt 2019"
+    },
+    {
+        "id":5,
+        "title":"House Flipper - HGTV DLC",
+        "imgurl":"https://cdn.cloudflare.steamstatic.com/steam/apps/1126050/capsule_231x87.jpg?t=1605533194",
+        "price":"72.00 kr",
+        "releasedate":"14. mai 2020"
+    },
+    
+    {
+        "id":6,
+        "title":"Home Design 3D",
+        "imgurl":"https://cdn.cloudflare.steamstatic.com/steam/apps/420000/header.jpg?t=1601384021",
+        "price":"70.00 kr",
+        "releasedate":"20. nov 2015"
+    },
+    {
+        "id":7,
+        "title":"ibb & obb",
+        "imgurl":"https://cdn.cloudflare.steamstatic.com/steam/apps/95400/capsule_231x87.jpg?t=1590420876",
+        "price":"80.00 kr",
+        "releasedate":"26. mai 2014"
+    },
+    {
+        "id":8,
+        "title":"CHUCHEL",
+        "imgurl":"https://cdn.cloudflare.steamstatic.com/steam/apps/711660/header.jpg?t=1609947191",
+        "price":"89.00 kr",
+        "releasedate":"7. mars 2018"
+    },
+    {
+        "id":9,
+        "title":"Zup! S",
+        "imgurl":"https://cdn.cloudflare.steamstatic.com/steam/apps/617670/header.jpg?t=1572107976",
+        "price":"7.50 kr",
+        "releasedate":"15. nov 2018"
+    },
+    {
+        "id":10,
+        "title":"Mini Metro",
+        "imgurl":"https://cdn.cloudflare.steamstatic.com/steam/apps/287980/header_alt_assets_3_norwegian.jpg?t=1612477860",
+        "price":"70.00 kr",
+        "releasedate":"6. nov 2015"
+    },
+    {
+        "id":11,
+        "title":"Winkeltje:The Little Shop",
+        "imgurl":"https://cdn.cloudflare.steamstatic.com/steam/apps/949290/header.jpg?t=1611101060",
+        "price":"89,00 kr",
+        "releasedate":"19. feb. 2019"
+    },
+    {
+        "id":12,
+        "title":"Hidden Folks",
+        "imgurl":"https://cdn.cloudflare.steamstatic.com/steam/apps/435400/header.jpg?t=1591272200",
+        "price":"89,00 kr",
+        "releasedate":"15. feb 2017"
+    },
+    {
+        "id":13,
+        "title":"Zup! X",
+        "imgurl":"https://cdn.cloudflare.steamstatic.com/steam/apps/508900/header.jpg?t=1572107978",
+        "price":"7,00 kr",
+        "releasedate":"17. mai 2018"
+    },
+    {
+        "id":14,
+        "title":"Zup! Z",
+        "imgurl":"https://cdn.cloudflare.steamstatic.com/steam/apps/1218900/header.jpg?t=1608664022",
+        "price":"7,50 kr",
+        "releasedate":"21. des 2020"
+    },
+    {
+        "id":15,
+        "title":"Florence",
+        "imgurl":"https://cdn.cloudflare.steamstatic.com/steam/apps/1102130/capsule_231x87.jpg?t=1589331032",
+        "price":"41.50 kr",
+        "releasedate":"13. feb 2020"
+    },
+    {
+        "id":16,
+        "title":"House of Detention",
+        "imgurl":"https://cdn.cloudflare.steamstatic.com/steam/apps/1293230/header.jpg?t=1609822657",
+        "price":"7,50 kr",
+        "releasedate":"29. mai 2020"
+    },
+    {
+        "id":17,
+        "title":"OXXO",
+        "imgurl":"https://cdn.cloudflare.steamstatic.com/steam/apps/1105110/capsule_231x87.jpg?t=1565163290",
+        "price":"7,75 kr",
+        "releasedate":"7. aug 2019"
+    }
+
+]

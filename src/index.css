@@ -1,0 +1,248 @@
+/* imported fonts from google fonts */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap");
+
+/* Global Stylings */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+body {
+  background-color: #1d3557;
+  font-family: "poppins", sans-serif;
+  font-size: 12px;
+  font-weight: 300;
+  color: #c7d5e0;
+  padding: 3rem 0;
+}
+
+/* Heading styling */
+h1 {
+  font-size: 2.5rem;
+  text-align: center;
+  letter-spacing: 4px;
+}
+
+/* games styling*/
+
+.game-section {
+  margin: 3rem auto;
+}
+
+/* each game Styling */
+.games-section {
+  width: 50%;
+  margin: 0 auto;
+  position: relative;
+  height: 45px;
+  overflow: hidden;
+  background-color: #000000;
+  background: rgba(0, 0, 0, 0.4);
+  border: 1px solid rgba(139, 185, 224, 0.1);
+  margin-bottom: 5px;
+  display: block;
+  text-decoration: none;
+  color: #c6d4df;
+  font-weight: 300;
+}
+
+/* each game hover effect */
+.games-section:hover {
+  border: 1px solid rgba(139, 185, 224, 0.3);
+  background: rgba(0, 0, 0, 0.6);
+  transition: 0.3s;
+}
+
+/* image  styling*/
+.games-section .col {
+  height: 45px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.games-section .col.image {
+  width: 120px;
+  border: none;
+}
+
+/* game information section */
+
+.title-section {
+  display: inline-block;
+  vertical-align: top;
+}
+
+/* game title */
+.games-section .col.title {
+  width: 275px;
+  margin-left: 8px;
+  line-height: 45px;
+}
+
+/* game release date */
+.games-section .col.release-date {
+  width: 150px;
+  color: #4c6c8c;
+  font-size: 11px;
+  line-height: 45px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+/* price */
+.games-section .col.price {
+  width: 120px;
+  text-align: right;
+  line-height: 45px;
+}
+
+@media screen and (max-width: 1200px) {
+  /* each game section */
+  .games-section {
+    width: 60%;
+  }
+
+  /* title */
+  .games-section .col.title {
+    width: 250px;
+  }
+
+  /* releasse-date*/
+  .games-section .col.release-date {
+    width: 120px;
+  }
+
+  /* price */
+  .games-section .col.price {
+    width: 100px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  /* each game section */
+  .games-section {
+    width: 65%;
+  }
+
+  /* title */
+  .games-section .col.title {
+    width: 220px;
+  }
+
+  /* releasse-date*/
+  .games-section .col.release-date {
+    width: 120px;
+  }
+
+  /* price */
+  .games-section .col.price {
+    width: 100px;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  /* heading */
+  h1 {
+    font-size: 2.2rem;
+  }
+
+  /* each game section */
+  .games-section {
+    width: 70%;
+  }
+
+  /* title */
+  .games-section .col.title {
+    width: 200px;
+  }
+
+  /* releasse-date*/
+  .games-section .col.release-date {
+    width: 100px;
+  }
+
+  /* price */
+  .games-section .col.price {
+    width: 100px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  /* heading */
+  h1 {
+    font-size: 2rem;
+  }
+
+  /* each game section */
+  .games-section {
+    padding: 5px;
+    height: 90px;
+  }
+  .game-section .col {
+    float: left;
+    display: block;
+  }
+
+  /* game details section */
+  .games-section .title-section {
+    overflow: hidden;
+    padding-left: 12px;
+    display: block;
+  }
+
+  /* title */
+  .games-section .col.title {
+    float: none;
+    width: auto;
+    margin: 0;
+  }
+
+  /* releasse-date*/
+  .games-section .col.released-date {
+    line-height: 18px;
+    height: 18px;
+  }
+
+  /* price */
+  .games-section .col.price {
+    float: right;
+    padding-right: 8px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  /* heading */
+  h1 {
+    font-size: 1.8rem;
+  }
+
+  /* image */
+  .games-section .col.image {
+    width: 108px;
+  }
+
+  /*game detals section */
+  .games-section .title-section {
+    overflow: visible;
+    padding: 0;
+  }
+
+  /* title */
+  .games-section .col.title {
+    padding-left: 8px;
+  }
+
+  /* releasse-date*/
+  .games-section .col.released-date {
+    clear: left;
+  }
+
+  /* price */
+  .games-section .col.price {
+    float: right;
+    padding-right: 8px;
+  }
+}
